@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"BWLaser"},{"p":"<Unnamed>","l":"ColorInkjet"},{"p":"<Unnamed>","l":"ColorLaser"},{"p":"<Unnamed>","l":"Printer"},{"p":"<Unnamed>","l":"PrinterList"},{"p":"<Unnamed>","l":"Program"},{"p":"<Unnamed>","l":"Sorter"}]

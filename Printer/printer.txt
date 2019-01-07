@@ -1,0 +1,4 @@
+COLOR_INKJET Canon, MGM5750, 6, , 12, 120 euros
+BW_LASER HP, Laserjet 1230, 25, 180 euros
+COLOR_LASER Samsung, M2026, 4, 16, 260 euros
+COLOR_INKJET Xiaomi, 123GF, 23, , 23, 123 euros
